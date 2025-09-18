@@ -1,0 +1,7 @@
+tkinter
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+shap
